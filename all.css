@@ -11,3 +11,12 @@ em {
     background-color: lightgrey;
     font-weight: bold;
 }
+
+
+ul {
+    list-style-type: disc;
+}
+
+ul li {
+    list-style-type: square;
+}
